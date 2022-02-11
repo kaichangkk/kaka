@@ -3,3 +3,4 @@ class Select {
     protected float mark;
     protected string location;
     //method
+}

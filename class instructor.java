@@ -5,6 +5,5 @@ public Class instructor extends Class person {
         }
         
     }
-    © 2022 GitHub, Inc.
-    Terms
+   
     
